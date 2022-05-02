@@ -8,6 +8,7 @@ node_modules
 /package-lock.json
 /package.json
 /.gitignore
+.gitignore
 /tsconfig.json
 src
 public
