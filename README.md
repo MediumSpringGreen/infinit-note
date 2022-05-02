@@ -1,2 +1,2 @@
 # infinit-note
-A cool place for your thoughts to unpack. 
+📝 A place for your thoughts to unpack. 
