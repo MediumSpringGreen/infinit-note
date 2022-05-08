@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.aa8b79da.css","mappings":"AAAA,KAIE,YAAa,CAFb,QAAW,CADX,SAAY,CAEZ,WAEF,CAEA,KAEE,WAAY,CADZ,UAEF","sources":["styles.css"],"sourcesContent":["html {\n  padding: 0px;\n  margin: 0px;\n  width: 100vw;\n  height: 100vh;\n}\n\n.app {\n  width: 100%;\n  height: 100%;\n}"],"names":[],"sourceRoot":""}
