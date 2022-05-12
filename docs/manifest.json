@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Infinite-Note",
+  "name": "A place for your thoughts to unpack.",
   "icons": [
     {
       "src": "favicon.ico",
